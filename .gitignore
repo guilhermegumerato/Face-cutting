@@ -1,0 +1,7 @@
+# Ignora tudo por padrão
+*
+
+# Permite apenas o que precisa ser versionado
+!.gitignore
+!face_cutting.py
+!requirements.txt
